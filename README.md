@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">A passionate mobile app developer from Earht</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sd37289&label=Profile%20views&color=0e75b6&style=flat" alt="sd37289" /> </p>
 
